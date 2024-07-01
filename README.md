@@ -1,4 +1,4 @@
-# DataVisualization_N07_Group5
+# Final_Group5_N07_TrucQuan
 
 - Nhóm sinh viên thực hiện: Trương Hương Giang, Nguyễn Minh Phương
 - Lớp: Trực quan hoá dữ liệu-1-3-23(N07)
